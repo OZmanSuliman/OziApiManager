@@ -3,7 +3,7 @@
 A description of this package.
 
 
-##USAGE
+## USAGE
 
     let api = ApiManager()
         api.getMethod(url: "") {  response, error, statusCode in
